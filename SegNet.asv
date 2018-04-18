@@ -72,7 +72,5 @@ plot(lGraph);
 xlim([2.862 3.200]);
 ylim([-0.9 10.9]);
 axis off;
-title('new Last Nine Layers');
-
-
+title('new Last Nine Layers')
 
